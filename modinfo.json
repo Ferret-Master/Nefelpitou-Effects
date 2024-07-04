@@ -1,0 +1,18 @@
+{
+    "context": "client",
+    "identifier": "com.pa.ferretmaster.nefelEffects",
+    "display_name": "Nefelpitou Commander Effects",
+    "description": "Adds fancy effects to the Nefelpitou commander",
+    "author": "Ferretmaster",
+    "version": "1.0",
+    "build": "120799",
+    "date": "2024-07-04",
+    "signature": "not yet implemented",
+    "forum": "",
+    "icon": "",
+    "priority": 100,
+    "category": [
+        "titans","classic", "in-game","ui","fx"
+    ]
+ 
+}
