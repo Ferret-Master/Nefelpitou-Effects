@@ -9,7 +9,7 @@
     "date": "2024-07-04",
     "signature": "not yet implemented",
     "forum": "",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/Ferret-Master/Nefelpitou-Effects/main/nefel_Icon.PNG",
     "priority": 100,
     "category": [
         "titans","classic", "in-game","ui","fx"
